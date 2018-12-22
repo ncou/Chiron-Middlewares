@@ -1,5 +1,7 @@
 .DS_Store
 .idea
+http_log1.log
+http_log2.log
 
 composer.phar
 composer.lock
